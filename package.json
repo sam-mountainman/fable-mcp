@@ -19,7 +19,7 @@
     "live-trial": "bash scripts/codex-live-trial.sh"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.0",
